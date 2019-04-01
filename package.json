@@ -1,0 +1,32 @@
+{
+  "name": "cordova-plugin-sip",
+  "version": "0.2.3",
+  "description": "Cordova Text-to-Speech Plugin",
+  "cordova": {
+    "id": "cordova-plugin-sip",
+    "platforms": [
+      "ios",
+      "wp8",
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcelgoya/cordova-plugin-sip.git"
+  },
+  "keywords": [
+    "cordova",
+    "tts",
+    "text-to-speech",
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-wp8",
+    "cordova-android"
+  ],
+  "author": "VILIC VANE",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marcelgoya/cordova-plugin-sip/issues"
+  },
+  "homepage": "https://github.com/marcelgoya/cordova-plugin-sip#readme"
+}
